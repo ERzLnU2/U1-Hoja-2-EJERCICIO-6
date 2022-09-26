@@ -17,7 +17,7 @@ Radio y altura de un ciclindro con Math y clase Scanner JAVA
    🔴 Utiliza la clase scanner y Math y los valores pueden contener decimales.
 ```
 
-![EJERCICIO-6-Hoja-2]([https://repository-images.githubusercontent.com/541335180/b2b0559d-e9ad-4f6a-a270-e90241df82d2))
+![](https://repository-images.githubusercontent.com/541335180/b2b0559d-e9ad-4f6a-a270-e90241df82d2)
 
  
 
